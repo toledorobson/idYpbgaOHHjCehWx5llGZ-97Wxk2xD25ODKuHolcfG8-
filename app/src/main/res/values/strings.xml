@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YKT Case</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="added_to_cart_successfully">Added to cart successfully!</string>
+    <string name="enter_info">Enter your username and password.</string>
+    <string name="password">password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+</resources>
